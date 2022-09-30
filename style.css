@@ -1,0 +1,60 @@
+/* Font Setup */
+
+@font-face {
+    font-family: 'Mario64';
+    src: url('./assets/fonts/font.eot');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mario64';
+    src: url('./assets/fonts/font.woff') format('woff'),
+        url('./assets/fonts/font.ttf') format('truetype'),
+        url('./assets/fonts/font.svg#Mario64') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Apply Fonts */
+
+h1, h2, h3, h4, h5, h6, p .black {
+  font-family: 'Mario64';
+  color: black;
+}
+
+h1, h2, h3, h4, h5, h6, p .white {
+  font-family: 'Mario64';
+  color: white;
+}
+
+/* Default Fonts */
+
+h1, h2, h3, h4, h5, h6, p {
+  font-family: 'Mario64';
+  color: white;
+}
+
+/* Set Background */
+
+body {
+  background-image: url("./assets/bg.jpg");
+}
+
+/* Center Text */
+
+.center {
+  text-align: center;
+}
+
+/* Menu */
+
+#menu {
+  height: 150px;
+  padding: 50px;
+  border: 10px solid white;
+  display: flex;
+  align-items: center;
+  color: white;
+}
