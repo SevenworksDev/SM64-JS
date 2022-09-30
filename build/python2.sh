@@ -1,1 +1,1 @@
-echo "Installing Packages..." && apt install -y git python2 && echo "Downloading SM64-JS" && git clone https://github.com/SevenworksDev/SM64-JS.git && cd SM64-JS-main && echo "Game is up at http://localhost:6464" && python2 -m SimpleHTTPServer 6464
+echo "Installing Packages..." && sudo apt install -y git python2 && echo "Downloading SM64-JS" && git clone https://github.com/SevenworksDev/SM64-JS.git && cd SM64-JS-main && echo "Game is up at http://localhost:6464" && python2 -m SimpleHTTPServer 6464
