@@ -21,3 +21,5 @@ Check Releases
 ```bash
 bash ./script_from_build_folder_here.sh
 ```
+# Mirrors
+[View Mirrors of SM64-JS](https://raw.githubusercontent.com/SevenworksDev/SM64-JS/main/pages/mirrors.txt)
