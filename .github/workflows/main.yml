@@ -4,10 +4,7 @@
 name: Server
 
 on:
-  push:
-    branches: [ "server" ]
-  pull_request:
-    branches: [ "server" ]
+  workflow_dispatch:
 
 jobs:
   build:
