@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6, p .black {
   color: black;
 }
 
-h1, h2, h3, h4, h5, h6, p .white {
+h1, h2, h3, h4, h5, h6, p, .white, .back {
   font-family: 'Mario64';
   color: white;
 }
@@ -57,4 +57,13 @@ body {
   display: flex;
   align-items: center;
   color: white;
+}
+
+/* Nav */
+
+.back {
+  display:block;
+  margin:auto;
+  text-align: center;
+  font-size: xx-large;
 }
