@@ -1,0 +1,4 @@
+nintendo: making sm64, website: https://www.nintendo.com/ 
+n64decomp: sm64 rom, github: https://github.com/n64decomp/
+jscraft: making the site, replit: https://replit.com/@jscraft
+foxmoss: small website tweaks, website: https://foxmoss.com/personal/
