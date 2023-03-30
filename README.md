@@ -1,3 +1,4 @@
+# This project is now read-only, I give up supporting this project. If you have issues, bugs, feature requests, etc then you're on your own.
 # SM64-JS
 Super Mario 64 ported to JavaScript and WebAssembly via Emscripten.  
 ## REPL Takedown
